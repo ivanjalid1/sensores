@@ -1,0 +1,62 @@
+{
+    "1": {
+        "medición": "1",
+        "temperatura": {
+            "valor": "25.1",
+            "unidad": "Celsius"
+        },
+        "presion": "0.98",
+        "humedad": "0.85",
+        "timestamp": "2025-03-24T07:34:25Z",
+        "direccion": "Av. 24 de septiembre 567",
+        "barrio": "General Paz"
+    },
+    "2": {
+        "medición": "2",
+        "temperatura": {
+            "valor": "25.5",
+            "unidad": "Celsius"
+        },
+        "presion": "0.92",
+        "humedad": "0.86",
+        "timestamp": "2025-03-25T03:48:29Z",
+        "direccion": "El Pino 348",
+        "barrio": "Los Sauces"
+    },
+    "3": {
+        "medición": "3",
+        "temperatura": {
+            "valor": "24.4",
+            "unidad": "Celsius"
+        },
+        "presion": "0.91",
+        "humedad": "0.52",
+        "timestamp": "2025-03-26T15:23:03Z",
+        "direccion": "Los Almendros 2050",
+        "barrio": "La Colina"
+    },
+    "4": {
+        "medición": "4",
+        "temperatura": {
+            "valor": "18.0",
+            "unidad": "Celsius"
+        },
+        "presion": "0.93",
+        "humedad": "0.1",
+        "timestamp": "2025-03-27T19:47:40Z",
+        "direccion": "Av. General Paz 742",
+        "barrio": "Centro"
+    },
+    "5": {
+        "medición": "5",
+        "temperatura": {
+            "valor": "15.7",
+            "unidad": "Celsius"
+        },
+        "presion": "0.95",
+        "humedad": "0.23",
+        "timestamp": "2025-03-28T10:35:01Z",
+        "direccion": "Av. Velez Sarfield 1500",
+        "barrio": "Nueva Córdoba"
+    }
+}
